@@ -1,0 +1,12 @@
+package-lock.json
+
+# Truffle
+build/
+
+# Dependency directories
+node_modules/
+
+.vscode
+
+#used only for personal tests
+script.js
